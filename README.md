@@ -1,1 +1,1 @@
-# Computer-Pipelining
+# Instruction-Pipelining
